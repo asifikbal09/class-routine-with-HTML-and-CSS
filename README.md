@@ -43,7 +43,7 @@ This is a responsive and interactive class routine webpage created using **HTML*
 - **CSS**: For styling and responsive design
 
 ## File Structure
-  ├── index.html # Main HTML file for the class routine 
+  ├── index.html # Main HTML file for the class routine <br>
   └── styles.css # CSS file for styling the webpage
 
 
